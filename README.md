@@ -4,8 +4,8 @@ This repository provides the model and training code for FST-D, a deep learning 
 
 ## Files
 
-- `FST-D model.py`: model definition of the proposed FST-D network.
-- `FST-D train.py`: training script for supervised displacement field learning.
+- `FST-D_model.py`: model definition of the proposed FST-D network.
+- `FST-D_train.py`: training script for supervised displacement field learning.
 
 ## Requirements
 
